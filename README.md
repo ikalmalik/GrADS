@@ -1,5 +1,5 @@
  <p align="center" style="margin-bottom: 1px;">
-  <img src="Colab and Jupyter Notebook.png" alt="Colab and Jupyter Notebook.png" width="100%" style="max-height: 100px; object-fit: cover;"/>
+  <img src="GrADS.png" alt="GrADS.png" width="100%" style="max-height: 100px; object-fit: cover;"/>
  <p
 
 
